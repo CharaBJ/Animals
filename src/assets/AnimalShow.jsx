@@ -46,3 +46,5 @@ function AnimalsShow({type}){
         </div>
     )
 }
+
+export default AnimalsShow
